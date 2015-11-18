@@ -1,4 +1,4 @@
-FROM krajcovic/centos-base:local
+FROM krajcovic/centos-base
 
 MAINTAINER Dusan Krajcovic
 
